@@ -1,0 +1,17 @@
+# Book settings
+title: "Trustworthy Cognitive Agents"
+author: "Course Instructor"
+logo: ""  # You can add a logo.png to your repo later and reference it here
+copyright: "2025"
+
+# Execution settings (turn off since we are writing text, not running code cells yet)
+execute:
+  execute_notebooks: off
+
+# HTML specific settings
+html:
+  use_edit_page_button: true
+  use_repository_button: true
+  baseurl: "https://your-username.github.io/trustworthy-cognitive-agents/" # Update with your username later
+  extra_navbar: |
+    <p><b>Course:</b> Neuro-Symbolic AI Engineering</p>
