@@ -1,0 +1,5 @@
+/* _static/custom.css */
+p {
+    text-align: justify;
+    text-justify: inter-word; /* Prevents awkward spacing gaps */
+}
