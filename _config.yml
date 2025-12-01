@@ -15,3 +15,5 @@ html:
   baseurl: "https://your-username.github.io/trustworthy-cognitive-agents/" # Update with your username later
   extra_navbar: |
     <p><b>Course:</b> Neuro-Symbolic AI Engineering</p>
+  extra_css:
+    - _static/custom.css
