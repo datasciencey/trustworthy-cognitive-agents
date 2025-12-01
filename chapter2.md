@@ -69,7 +69,7 @@ $$ \text{Perception} \rightarrow \textbf{Knowledge} \rightarrow \text{Rules} \ri
     *   Does the proposed response cite a valid source?
     *   Are all safety constraints satisfied?
     *   Is the confidence score above the threshold?
-*   **Outcome:** If the check fails, the **Escalation Trigger** is activated.
+    *   **Outcome:** If the check fails, the **Escalation Trigger** is activated.
 
 #### Layer 5: Action (The Side Effect)
 *   **Function:** Execution of the API call, database write, or response generation.
