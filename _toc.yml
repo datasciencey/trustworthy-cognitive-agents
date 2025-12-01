@@ -1,0 +1,10 @@
+# Table of contents
+format: jb-book
+root: intro
+
+parts:
+  - caption: "Part I: Foundations"
+    chapters:
+    # - file: chapter1  <-- Placeholder for later
+    # - file: chapter2  <-- Placeholder for later
+    - file: chapter3
